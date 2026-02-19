@@ -1,13 +1,18 @@
-<div align="center">
-  <img src="images/ebook_cover_front.jpg" alt="Matemáticas Aplicadas para Machine Learning - Portada" width="300"/>
-</div>
+# Matemáticas para Machine Learning — 1ra Edición
+
+**Autores:** Jheser Guzman, Jhohan Guzman
+
 
 ---
 
-## Matemáticas para Machine Learning — 1ra Edición
-## Fundamentos de Ciencia de Datos con Python - Volumen I & II
+<div align="center">
 
-**Autores:** Jheser Guzman, Jhohan Guzman
+| FRONT COVER | REAR COVER |
+|:---:|:---:|
+| <img src="images/ebook_cover_front.jpg" alt="Portada" width="300"/> | <img src="images/ebook_cover_rear.jpg" alt="Contraportada" width="300"/> |
+
+</div>
+
 
 ---
 
@@ -35,9 +40,9 @@ Este libro establece un puente entre los conceptos matemáticos teóricos y la p
 
 | Formato | Volumen I | Volumen II |
 |---------|:---------:|:----------:|
-| 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://a.co/d/0h0SoKQy)| <img src="images/book_color_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://a.co/d/01jBMO2h) |
-| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://a.co/d/00mmukUV) | <img src="images/book_bw_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://a.co/d/09e5NrlI) |
-| 📙 **Hardcover + Color Premium** | [🛒 Comprar Vol. I](https://a.co/d/0hltsr2H) | [🛒 Comprar Vol. II](https://a.co/d/02OLQ5E5) |
+| 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://www.amazon.com/dp/1967406006)| <img src="images/book_color_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://www.amazon.com/dp/1967406014) |
+| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://www.amazon.com/dp/1967406391) | <img src="images/book_bw_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://www.amazon.com/dp/1967406405) |
+| 📙 **Hardcover + Color Premium** | [🛒 Comprar Vol. I](https://www.amazon.com/dp/1967406049) | [🛒 Comprar Vol. II](https://www.amazon.com/dp/1967406057) |
 
 ---
 
@@ -87,9 +92,3 @@ Las correcciones verificadas se registran en la siguiente tabla:
 | Página | Párrafo | Corrección |
 |--------|---------|------------|
 | | | |
-
----
-
-<div align="center">
-  <img src="images/ebook_cover_rear.jpg" alt="Contraportada" width="300"/>
-</div>
