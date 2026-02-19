@@ -1,8 +1,95 @@
-# Book: Matemáticas Aplicadas para Machine Learning, 1ra Edición
-Autores:  Jheser Guzman, Jhohan Guzman
+<div align="center">
+  <img src="images/ebook_cover_front.jpg" alt="Matemáticas Aplicadas para Machine Learning - Portada" width="300"/>
+</div>
 
-# Fe de Erratas
+---
 
-| Pagina | Párrafo | Corrección |
-|-------|-------|-------|
+## Matemáticas para Machine Learning — 1ra Edición
+## Fundamentos de Ciencia de Datos con Python - Volumen I & II
+
+**Autores:** Jheser Guzman, Jhohan Guzman
+
+---
+
+## Descripción
+
+Este libro establece un puente entre los conceptos matemáticos teóricos y la programación en Python, proporcionando un tratamiento sistemático de los fundamentos matemáticos para las aplicaciones de machine learning e inteligencia artificial. Se presenta una progresión estructurada desde los principios fundamentales hasta las metodologías avanzadas, incorporando tanto exposición teórica como implementación práctica.
+
+---
+
+### Temas centrales
+
+**Fundamentos computacionales:**
+- **✓ Programación en Python** con ecosistemas NumPy, Sympy, Pandas y Matplotlib
+- **✓ Álgebra Lineal:** Espacios vectoriales y matriciales, descomposición de valores propios y transformaciones lineales
+- **✓ Cálculo multivariable:** Derivadas parciales, gradientes y teoría de optimización
+- **✓ Probabilidad y estadística:** Modelado probabilístico, inferencia estadística y pruebas de hipótesis
+- **✓ Aprendizaje supervisado:** Algoritmos de clasificación y regresión con análisis matemático
+- **✓ Aprendizaje no supervisado:** Algoritmos de clustering y técnicas de reducción de dimensionalidad
+- **✓ Redes Neuronales:** Fundamentos matemáticos de arquitecturas de deep learning
+- **✓ Aplicaciones especializadas:** Sistemas de recomendación y procesamiento de lenguaje natural
+
+---
+
+## Presentaciones del libro
+
+| Formato | Volumen I | Volumen II |
+|---------|:---------:|:----------:|
+| 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://a.co/d/0h0SoKQy)| <img src="images/book_color_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://a.co/d/01jBMO2h) |
+| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://a.co/d/00mmukUV) | <img src="images/book_bw_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://a.co/d/09e5NrlI) |
+| 📙 **Hardcover + Color Premium** | [🛒 Comprar Vol. I](https://a.co/d/0hltsr2H) | [🛒 Comprar Vol. II](https://a.co/d/02OLQ5E5) |
+
+---
+
+## Tabla de Contenido
+
+| # | Capítulo | Notebook |
+|:-:|----------|:--------:|
+| — | Antes de Comenzar | [▶](source_code/before_to_begin.ipynb) |
+| 1 | Introducción a la Matemática para Machine Learning | [▶](source_code/chapter_01.ipynb) |
+| 2 | Programación Python para Machine Learning | [▶](source_code/chapter_02.ipynb) |
+| 3 | Módulos de Python para Machine Learning | [▶](source_code/chapter_03.ipynb) |
+| 4 | Álgebra Lineal | [▶](source_code/chapter_04.ipynb) |
+| 5 | Cálculo Diferencial | [▶](source_code/chapter_05.ipynb) |
+| 6 | Probabilidad | [▶](source_code/chapter_06.ipynb) |
+| 7 | Estadística Descriptiva | [▶](source_code/chapter_07.ipynb) |
+| 8 | Estadística Inferencial | [▶](source_code/chapter_08.ipynb) |
+| 9 | Optimización | [▶](source_code/chapter_09.ipynb) |
+| 10 | Aplicaciones en Machine Learning | [▶](source_code/chapter_10.ipynb) |
+| A | Apéndice A | [▶](source_code/ZZ_appendix_a.ipynb) |
+
+> Cada capítulo incluye también un notebook de **problemas resueltos** (`chapter_XX_solved_problems.ipynb`).
+
+📄 **Muestra gratuita:** [Descargar Capítulo 1 (PDF)](ebook_sample/Matematicas%20para%20Machine%20Learning%2C%20Jheser%20Guzman%20y%20Jhohanser%20Guzman%2C%202026%2C%20Ebook%20Sample%20%28Chapter%201%29.pdf)
+
+---
+
+## Contacto e Información
+
+- 🌐 **Sitio web:** [www.bluminds.com](https://www.bluminds.com)
+- 🐦 **Twitter / X:** [@blumindsllc](https://x.com/blumindsllc)
+- 🎬 **YouTube:** [youtube.com/@bluminds](https://www.youtube.com/@bluminds)
+- 💻 **Código Fuente:** [github.com/Bluminds/Book-MMLv1-CodeExamples](https://github.com/Bluminds/Book-MMLv1-CodeExamples/source_code)
+- 💻 **Slides:** Contactar a [info@bluminds.com](mailto:info@bluminds.com) (incluye el recibo de compra del libro).
+- 📧 **Contacto:** [info@bluminds.com](mailto:info@bluminds.com)
+
+---
+
+## Fe de Erratas
+
+Si encuentras un error en el libro (tipográfico, matemático o de código), puedes reportarlo abriendo un [Issue en GitHub](https://github.com/Bluminds/Book-MMLv1-CodeExamples/issues) o enviando un correo a [info@bluminds.com](mailto:info@bluminds.com) con el asunto **"Fe de Erratas"**, indicando:
+- Número de página
+- Párrafo o sección donde se encuentra el error
+- Descripción de la corrección propuesta
+
+Las correcciones verificadas se registran en la siguiente tabla:
+
+| Página | Párrafo | Corrección |
+|--------|---------|------------|
 | | | |
+
+---
+
+<div align="center">
+  <img src="images/ebook_cover_rear.jpg" alt="Contraportada" width="300"/>
+</div>
