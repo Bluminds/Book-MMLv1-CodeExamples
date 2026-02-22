@@ -48,8 +48,8 @@ Este libro establece un puente entre los conceptos matemáticos teóricos y la p
 
 ## Tabla de Contenido
 
-| # | Volumen | Notebook |
-|:-:|----------|----------|:--------:|
+| # | Volumen | Capítulo | Notebook |
+|:-:|:--------:|--------|:--------:|
 | — | Vol I | Antes de Comenzar | [▶](source_code/before_to_begin.ipynb) |
 | 1 | Vol I | Introducción a Machine Learning | [▶](source_code/chapter_01.ipynb) |
 | 2 | Vol I | Programación con Python para Machine Learning | [▶](source_code/chapter_02.ipynb) |
