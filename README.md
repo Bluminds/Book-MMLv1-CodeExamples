@@ -48,20 +48,20 @@ Este libro establece un puente entre los conceptos matemáticos teóricos y la p
 
 ## Tabla de Contenido
 
-| # | Capítulo | Notebook |
-|:-:|----------|:--------:|
-| — | Antes de Comenzar | [▶](source_code/before_to_begin.ipynb) |
-| 1 | Introducción a la Matemática para Machine Learning | [▶](source_code/chapter_01.ipynb) |
-| 2 | Programación Python para Machine Learning | [▶](source_code/chapter_02.ipynb) |
-| 3 | Módulos de Python para Machine Learning | [▶](source_code/chapter_03.ipynb) |
-| 4 | Álgebra Lineal | [▶](source_code/chapter_04.ipynb) |
-| 5 | Cálculo Diferencial | [▶](source_code/chapter_05.ipynb) |
-| 6 | Probabilidad | [▶](source_code/chapter_06.ipynb) |
-| 7 | Estadística Descriptiva | [▶](source_code/chapter_07.ipynb) |
-| 8 | Estadística Inferencial | [▶](source_code/chapter_08.ipynb) |
-| 9 | Optimización | [▶](source_code/chapter_09.ipynb) |
-| 10 | Aplicaciones en Machine Learning | [▶](source_code/chapter_10.ipynb) |
-| A | Apéndice A | [▶](source_code/ZZ_appendix_a.ipynb) |
+| # | Volumen | Notebook |
+|:-:|----------|----------|:--------:|
+| — | Vol I | Antes de Comenzar | [▶](source_code/before_to_begin.ipynb) |
+| 1 | Vol I | Introducción a Machine Learning | [▶](source_code/chapter_01.ipynb) |
+| 2 | Vol I | Programación con Python para Machine Learning | [▶](source_code/chapter_02.ipynb) |
+| 3 | Vol I | Python para Analisis de Datos | [▶](source_code/chapter_03.ipynb) |
+| 4 | Vol I | Visualizacion de Datos | [▶](source_code/chapter_04.ipynb) |
+| 5 | Vol I | Aritmética, Álgebra, Geometría y Trigonometría | [▶](source_code/chapter_05.ipynb) |
+| 6 | Vol II | Álgebra Lineal, Cálculo y Ecuaciones Diferenciales | [▶](source_code/chapter_06.ipynb) |
+| 7 | Vol II | Probabilidad y Estadística | [▶](source_code/chapter_07.ipynb) |
+| 8 | Vol II | Módulos de Python para Machine Learning | [▶](source_code/chapter_08.ipynb) |
+| 9 | Vol II | Algoritmos Supervisados | [▶](source_code/chapter_09.ipynb) |
+| 10 | Vol II | Algoritmos No-Supervisados | [▶](source_code/chapter_10.ipynb) |
+| A | | Apéndice A | [▶](source_code/ZZ_appendix_a.ipynb) |
 
 > Cada capítulo incluye también un notebook de **problemas resueltos** (`chapter_XX_solved_problems.ipynb`).
 
