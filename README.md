@@ -41,8 +41,6 @@ Este libro establece un puente entre los conceptos matemáticos teóricos y la p
 | Formato | Volumen I | Volumen II |
 |---------|:---------:|:----------:|
 | 📗 **Paperback + Color** | <img src="images/book_color_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://www.amazon.com/dp/1967406006)| <img src="images/book_color_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://www.amazon.com/dp/1967406014) |
-| 📘 **Paperback + Escala de Grises** | <img src="images/book_bw_vol1.jpg" width="160"/><br>[🛒 Comprar Vol. I](https://www.amazon.com/dp/1967406391) | <img src="images/book_bw_vol2.jpg" width="160"/><br>[🛒 Comprar Vol. II](https://www.amazon.com/dp/1967406405) |
-| 📙 **Hardcover + Color Premium** | [🛒 Comprar Vol. I](https://www.amazon.com/dp/1967406049) | [🛒 Comprar Vol. II](https://www.amazon.com/dp/1967406057) |
 
 ---
 
@@ -63,7 +61,7 @@ Este libro establece un puente entre los conceptos matemáticos teóricos y la p
 | 10 | Vol II | Algoritmos No-Supervisados | [▶](source_code/chapter_10.ipynb) |
 | A | | Apéndice A | [▶](source_code/ZZ_appendix_a.ipynb) |
 
-> Cada capítulo incluye también un notebook de **problemas resueltos** (`chapter_XX_solved_problems.ipynb`).
+> Cada capítulo también incluye un notebook de **problemas resueltos** (`chapter_XX_solved_problems.ipynb`).
 
 📄 **Muestra gratuita:** [Descargar Capítulo 1 (PDF)](ebook_sample/Matematicas%20para%20Machine%20Learning%2C%20Jheser%20Guzman%20y%20Jhohanser%20Guzman%2C%202026%2C%20Ebook%20Sample%20%28Chapter%201%29.pdf)
 
